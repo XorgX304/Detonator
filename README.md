@@ -1,9 +1,6 @@
 # DETONATOR Exploit Toolbox.
 Language: BASH
 
-# Detonator Exploit Toolbox.
-Language: BASH
-
 # Description:
 Detonator helps you with your exploiting and vulnerability searching adventures on KALI Linux by using a few different pre-installed tools among several others that Detonator will installed & setup for you(they all can be found right here on Github too). 
 
