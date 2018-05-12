@@ -31,5 +31,5 @@ That's just to name a few, the rest you'll have to go and enjoy yourself! (;
 - Kali Linux
 - ROOT (not root priv user)
 
-#USAGE
+# USAGE
 - bash detonator.sh
