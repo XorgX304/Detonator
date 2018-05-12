@@ -21,7 +21,6 @@ XSS Crawl/Finder
 CMS Scan
 CMS Vuln Tools
 Admin Bypasser (Many others)
-That's just to name a few, the rest you'll have to go and enjoy yourself! (;
 
 Requirements
 Kali Linux
