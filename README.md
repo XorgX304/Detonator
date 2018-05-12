@@ -32,4 +32,4 @@ That's just to name a few, the rest you'll have to go and enjoy yourself! (;
 - ROOT (not root priv user)
 
 #USAGE
-bash detonator.sh
+- bash detonator.sh
